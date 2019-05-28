@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  minecraft_room.cpp
+c:\users\57633\desktop\github\my\minecraft-room\minecraft_room\minecraft_room\minecraft_room.cpp(505): warning C4101: “vp”: 未引用的局部变量
+c:\users\57633\desktop\github\my\minecraft-room\minecraft_room\minecraft_room\minecraft_room.cpp(505): warning C4101: “nPicks”: 未引用的局部变量
+c:\users\57633\desktop\github\my\minecraft-room\minecraft_room\minecraft_room\minecraft_room.cpp(504): warning C4101: “pickBuffer”: 未引用的局部变量
+  minecraft_room.vcxproj -> C:\Users\57633\Desktop\github\my\Minecraft-room\minecraft_room\Debug\minecraft_room.exe
